@@ -257,8 +257,8 @@ local Templates = {
         ShowCustomCursor = true,
         Gradient = {
              Enabled = true,       -- aktifkan gradasi global (true/false)
-             Brightness = 0.2,     -- seberapa terang ujung kanan jadi lebih terang (0..1)
-             Rotation = 90,         -- 0 = horizontal (kiri->kanan)
+             Brightness = 0.5,     -- seberapa terang ujung kanan jadi lebih terang (0..1)
+             Rotation = 180,         -- 0 = horizontal (kiri->kanan)
         },
         Font = Enum.Font.Code,
         ToggleKeybind = Enum.KeyCode.RightControl,
